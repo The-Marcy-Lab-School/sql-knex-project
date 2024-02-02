@@ -123,7 +123,7 @@ The secondary parent is much simpler, and all it needs are the basics:
 You only need 1 seed file!
 
 - [ ] a seed file exists
-- [ ] All existing tables are cleared before the seed file runs
+- [ ] All existing tables are cleared at the start of the seed file
 - [ ] 10 instances of the primary parent are created
 - [ ] 5 instances of the secondary parent are created
 - [ ] At least 10 joins are created between the primary and secondary parents
